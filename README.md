@@ -1,6 +1,6 @@
  Hola, I’m @cesaenzv :colombia:, 
 
-- :satisfied: I :yellow_heart: code and understand how the data flows and how this normally represents the intention not 
+- :satisfied: I :yellow_heart: to code and understanding how data flows and this normally represents the intention not 
 only logically but business specific.
 - Highly addicted to :coffee: and :beer:
 - Reading to become better programmer and architect 
