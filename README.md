@@ -1,9 +1,8 @@
  Hola, I’m @cesaenzv :colombia:, 
 
-- :satisfied: I :yellow_heart: to code and understanding how data flows and this normally represents the intention not 
-only logically but business specific.
+- :satisfied: I :yellow_heart: coding, read it and understand how data flows, and how this can express the human intention, beyond just the process
 - Highly addicted to :coffee: and :beer:
-- Reading to become better programmer and architect 
+- Reading to become a better programmer and architect 
 
 <!---
 cesaenzv/cesaenzv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
